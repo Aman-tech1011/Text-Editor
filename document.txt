@@ -1,0 +1,3 @@
+TEXT: Hello, World!
+IMAGE: photo.png
+TEXT: Welcome to Java Document Editor

@@ -1,0 +1,3 @@
+TEXT: Aman kumar
+IMAGE: aman.png
+TEXT: Welcome to GLA Univeristy
